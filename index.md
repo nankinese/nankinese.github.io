@@ -1,14 +1,14 @@
-## nankinese dialects
+## Nankinese dialects
 
 ---
 
 ### Dialect list 1
 
-- [how to say 'hello'](/#)
+- how to say 'hello'?
 {% include embed-audio.html src="audio/sample.wav" %}
 
 
-- [how to say 'good bye'](/#)
+- how to say 'good bye'?
 {% include embed-audio.html src="audio/sample.wav" %}
 
 ---
