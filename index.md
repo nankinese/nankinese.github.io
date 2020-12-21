@@ -1,35 +1,20 @@
-## Portfolio
+## nankinese dialects
 
 ---
 
-### Category Name 1 
+### Dialect list 1
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [how to say 'hello'](/#)
+{% include embed-audio.html src="audio/sample.wav" %}
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [how to say 'good bye'](/#)
+{% include embed-audio.html src="audio/sample.wav" %}
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
 
 
 
-
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px">by whk</p>
