@@ -1,4 +1,7 @@
-| Character | Meaning |Pronunciation(Audio)|Pronuncation(IPA)|
-| :-------: | :-----: | :-----------------------------------------------: | :---------------: |
-|    上     |   up    | {% include embed-audio.html src="audio/UP.m4a" %} |       sɑŋ˦        |
-|    下     |  down   | {% include embed-audio.html src="audio/UP.m4a" %} |       ɕia˦        |
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
