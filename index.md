@@ -8,7 +8,7 @@
 {% include embed-audio.html src="audio/sample.wav" %}
 - how to say 'good bye'? [click to view detail](/sample_page)
 {% include embed-audio.html src="audio/sample.wav" %}
-- how to say 'up'？
+- how to say '[up](/up_page)'？
 {% include embed-audio.html src="audio/UP.m4a" %}
 
 ---
