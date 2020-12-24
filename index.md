@@ -1,20 +1,23 @@
-## Nankinese dialects
+## 關於南京話
+
+#### 南京話簡介
+
+#### “標準”跟“不標準”
+
+## 關於本網站
+
+#### 宗旨
+
+#### 發音人
+
+## 語言資源
+
+#### 字音
+
+#### 詞彙
+
+#### 語句
 
 ---
+<p style="font-size:11px">by Wu Haokun</p>
 
-### Dialect list 1
-
-- how to say 'hello'? [click to view detail](/sample_page)
-{% include embed-audio.html src="audio/sample.wav" %}
-- how to say 'good bye'? [click to view detail](/sample_page)
-{% include embed-audio.html src="audio/sample.wav" %}
-- how to say '[up](/up_page)'？
-{% include embed-audio.html src="audio/UP.m4a" %}
-- for more, see [character list](/characterlist_page)
-
----
-
- 
-
----
-<p style="font-size:11px">by whk</p>
