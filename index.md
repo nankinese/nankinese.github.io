@@ -9,7 +9,11 @@
 
 
 - how to say 'good bye'? [click to view detail](/sample_page)
-{% include embed-audio.html src="audio/sample.wav" %}
+  {% include embed-audio.html src="audio/sample.wav" %}
+
+- how to say 'up'？
+
+  {% include embed-audio.html src="audio/UP.m4a" %}
 
 ---
 
