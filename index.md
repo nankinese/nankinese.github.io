@@ -10,6 +10,7 @@
 {% include embed-audio.html src="audio/sample.wav" %}
 - how to say '[up](/up_page)'？
 {% include embed-audio.html src="audio/UP.m4a" %}
+- for more, see [character list](/characterlist_page)
 
 ---
 
