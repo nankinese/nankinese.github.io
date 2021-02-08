@@ -33,14 +33,14 @@
 | 爬   | <audio src="audio\爬.m4a" controls="controls"> </audio>   | pha24       | pá         |      |
 | 馬   | <audio src="audio\马.m4a" controls="controls"> </audio>   | ma11        | mǎ         |      |
 | 罵   | <audio src="audio\骂.m4a" controls="controls"> </audio>   | ma44        | mà         |      |
-| 茶   | <audio src="audio\茶.m4a" controls="controls"> </audio>   | tsha24      |            |      |
-| 沙   | <audio src="audio\沙.m4a" controls="controls"> </audio>   | sa41        |            |      |
-| 假   | <audio src="audio\假.m4a" controls="controls"> </audio>   | tɕia11      |            | 真~  |
-| 嫁   | <audio src="audio\嫁.m4a" controls="controls"> </audio>   | tɕia44      |            |      |
-| 牙   | <audio src="audio\牙.m4a" controls="controls"> </audio>   | ia24        |            |      |
-| 蝦   | <audio src="audio\虾.m4a" controls="controls"> </audio>   | ɕia41       |            |      |
-| 下   | <audio src="audio\下.m4a" controls="controls"> </audio>   | ɕia44       |            |      |
-| 夏   | <audio src="audio\夏.m4a" controls="controls"> </audio>   | ɕia44       |            |      |
+| 茶   | <audio src="audio\茶.m4a" controls="controls"> </audio>   | tsha24      | chá        |      |
+| 沙   | <audio src="audio\沙.m4a" controls="controls"> </audio>   | sa41        | shā        |      |
+| 假   | <audio src="audio\假.m4a" controls="controls"> </audio>   | tɕia11      | jiǎ        | 真~  |
+| 嫁   | <audio src="audio\嫁.m4a" controls="controls"> </audio>   | tɕia44      | jià        |      |
+| 牙   | <audio src="audio\牙.m4a" controls="controls"> </audio>   | ia24        | yá         |      |
+| 蝦   | <audio src="audio\虾.m4a" controls="controls"> </audio>   | ɕia41       | xiā        |      |
+| 下   | <audio src="audio\下.m4a" controls="controls"> </audio>   | ɕia44       | xià        |      |
+| 夏   | <audio src="audio\夏.m4a" controls="controls"> </audio>   | ɕia44       | xià        |      |
 
 
 
