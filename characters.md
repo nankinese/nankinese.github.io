@@ -21,6 +21,26 @@
 | 躲   | <audio src="audio\躲.m4a" controls="controls"> </audio>   | to11        | duǒ        |      |
 | 螺   | <audio src="audio\螺.m4a" controls="controls"> </audio>   | lo24        | luó        |      |
 | 坐   | <audio src="audio\坐.m4a" controls="controls"> </audio>   | tso44       | zuò        |      |
+| 鎖   | <audio src="audio\锁.m4a" controls="controls"> </audio>   | so11        | suǒ        |      |
+| 果   | <audio src="audio\果.m4a" controls="controls"> </audio>   | ko11        | guǒ        |      |
+| 過   | <audio src="audio\过.m4a" controls="controls"> </audio>   | ko44        | guò        |      |
+| 課   | <audio src="audio\课.m4a" controls="controls"> </audio>   | kho44       | kè         |      |
+| 火   | <audio src="audio\火.m4a" controls="controls"> </audio>   | ho11        | huǒ        |      |
+| 貨   | <audio src="audio\货.m4a" controls="controls"> </audio>   | ho44        | huò        |      |
+| 禍   | <audio src="audio\祸.m4a" controls="controls"> </audio>   | ho44        | huò        |      |
+| 靴   | <audio src="audio\靴.m4a" controls="controls"> </audio>   | ɕye41       | xuē        |      |
+| 把   | <audio src="audio\把.m4a" controls="controls"> </audio>   | pa11        | bǎ         | 量詞 |
+| 爬   | <audio src="audio\爬.m4a" controls="controls"> </audio>   | pha24       | pá         |      |
+| 馬   | <audio src="audio\马.m4a" controls="controls"> </audio>   | ma11        | mǎ         |      |
+| 罵   | <audio src="audio\骂.m4a" controls="controls"> </audio>   | ma44        | mà         |      |
+| 茶   | <audio src="audio\茶.m4a" controls="controls"> </audio>   | tsha24      |            |      |
+| 沙   | <audio src="audio\沙.m4a" controls="controls"> </audio>   | sa41        |            |      |
+| 假   | <audio src="audio\假.m4a" controls="controls"> </audio>   | tɕia11      |            | 真~  |
+| 嫁   | <audio src="audio\嫁.m4a" controls="controls"> </audio>   | tɕia44      |            |      |
+| 牙   | <audio src="audio\牙.m4a" controls="controls"> </audio>   | ia24        |            |      |
+| 蝦   | <audio src="audio\虾.m4a" controls="controls"> </audio>   | ɕia41       |            |      |
+| 下   | <audio src="audio\下.m4a" controls="controls"> </audio>   | ɕia44       |            |      |
+| 夏   | <audio src="audio\夏.m4a" controls="controls"> </audio>   | ɕia44       |            |      |
 
 
 
