@@ -41,6 +41,23 @@
 | 蝦   | <audio src="audio\虾.m4a" controls="controls"> </audio>   | ɕia41       | xiā        |      |
 | 下   | <audio src="audio\下.m4a" controls="controls"> </audio>   | ɕia44       | xià        |      |
 | 夏   | <audio src="audio\夏.m4a" controls="controls"> </audio>   | ɕia44       | xià        |      |
+| 啞   | <audio src="audio\哑.m4a" controls="controls"> </audio>   | ia11        | yǎ         |      |
+| 姐   | <audio src="audio\姐.m4a" controls="controls"> </audio>   | tɕie11      | jiě        |      |
+| 借   | <audio src="audio\借.m4a" controls="controls"> </audio>   | tɕie44      | jiè        |      |
+| 寫   | <audio src="audio\写.m4a" controls="controls"> </audio>   | ɕie11       | xiě        |      |
+| 斜   | <audio src="audio\斜.m4a" controls="controls"> </audio>   | ɕie24       | xié        |      |
+| 謝   | <audio src="audio\谢.m4a" controls="controls"> </audio>   | ɕie44       | xiè        |      |
+| 車   | <audio src="audio\车.m4a" controls="controls"> </audio>   | ʈʂhɤ41      | chē        |      |
+| 蛇   | <audio src="audio\蛇.m4a" controls="controls"> </audio>   | ʂɤ24        | shé        |      |
+| 射   | <audio src="audio\射.m4a" controls="controls"> </audio>   | sɤʔ5        | shè        |      |
+| 爺   | <audio src="audio\爷.m4a" controls="controls"> </audio>   | ie24        | yé         |      |
+| 野   | <audio src="audio\野.m4a" controls="controls"> </audio>   | ie11        | yě         |      |
+| 夜   | <audio src="audio\夜.m4a" controls="controls"> </audio>   | ie44        | yè         |      |
+| 瓜   | <audio src="audio\瓜.m4a" controls="controls"> </audio>   | kua41       | guā        |      |
+| 瓦   | <audio src="audio\瓦.m4a" controls="controls"> </audio>   | ua11        | wǎ         |      |
+| 花   | <audio src="audio\花.m4a" controls="controls"> </audio>   | xua41       | huā        |      |
+| 化   | <audio src="audio\化.m4a" controls="controls"> </audio>   | xua44       | huà        |      |
+| 華   | <audio src="audio\华.m4a" controls="controls"> </audio>   | xua24       | huá        |      |
 
 
 
